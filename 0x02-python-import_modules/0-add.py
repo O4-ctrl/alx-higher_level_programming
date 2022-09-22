@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     """Print some of 1 and 2"""
     from add_0 import add
 
